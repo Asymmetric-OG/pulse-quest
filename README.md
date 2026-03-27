@@ -40,6 +40,8 @@ Generation Hyperparameters :
 
 **Secured 1st Position among 100+ teams.**
 
+![certificate](https://github.com/user-attachments/assets/d0c50bc4-2cb2-4dd6-8be8-4d85290c92d0)
+
 ROUGE-L Score (Public-68%) : `0.5039148`  
 ROUGE-L Score (Private-32%) : `0.5124484`
 
